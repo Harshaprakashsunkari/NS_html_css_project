@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro:ital@1&family=Poppins:wght@300&family=Roboto:wght@500&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
 .background {
     margin: 0px 90px;
     width: 85vw;
